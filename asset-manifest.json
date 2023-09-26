@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CieslakLukasz/react-shop/static/css/main.dd41230c.css",
+    "main.js": "/CieslakLukasz/react-shop/static/js/main.cae655df.js",
+    "static/js/787.affa5bbf.chunk.js": "/CieslakLukasz/react-shop/static/js/787.affa5bbf.chunk.js",
+    "index.html": "/CieslakLukasz/react-shop/index.html",
+    "main.dd41230c.css.map": "/CieslakLukasz/react-shop/static/css/main.dd41230c.css.map",
+    "main.cae655df.js.map": "/CieslakLukasz/react-shop/static/js/main.cae655df.js.map",
+    "787.affa5bbf.chunk.js.map": "/CieslakLukasz/react-shop/static/js/787.affa5bbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd41230c.css",
+    "static/js/main.cae655df.js"
+  ]
+}
